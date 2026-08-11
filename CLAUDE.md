@@ -1,4 +1,7 @@
-# etzhayyim-project-bunken — 文献書誌 Intelligence
+# actor-bunken — 文献書誌 Intelligence
+
+Canonical repository: `kotoba-lang/actor-bunken`. The historical etzhayyim DID,
+namespace, and GitHub URL remain compatibility identities.
 
 **bunken.etzhayyim.com** — 全世界の図書館・アーカイブ文献を actor 化する書誌 intelligence。
 
