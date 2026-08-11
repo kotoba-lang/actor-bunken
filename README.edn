@@ -1,0 +1,9 @@
+{:repo/id "kotoba-lang/actor-bunken"
+ :repo/plane :role
+ :repo/role :governed-executable-actor
+ :repo/execution :on-demand
+ :actor/id :bunken
+ :actor/identity "did:web:etzhayyim.com:actor:bunken"
+ :repo/boundary {:subject :global-bibliographic-knowledge
+                 :does-not-own [:etzhayyim-charter :etzhayyim-council :organism-state]
+                 :compatibility-repository "etzhayyim/com-etzhayyim-bunken"}}
