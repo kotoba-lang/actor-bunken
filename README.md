@@ -11,5 +11,5 @@ religious Charter, Council, or organism state. Existing
 and former GitHub URL remain compatibility identities; this repository move does
 not mint a new actor.
 
-See `CLAUDE.md` for the architecture and `kbb -M:test` for the executable
+See `AGENTS.md` for the architecture and `kbb -M:test` for the executable
 contract suite.
